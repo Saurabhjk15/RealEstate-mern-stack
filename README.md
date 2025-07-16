@@ -1,9 +1,9 @@
-# 🏡 MERN Real Estate Marketplace
+# 🏡 MERN Real Estate 
 
 A **modern real estate platform** built from scratch using the **MERN stack** (MongoDB, Express.js, React, Node.js). This app features powerful functionality like JWT authentication, Redux Toolkit for state management, image uploads, and a beautifully designed UI for listing properties — a full-stack real-world project crafted with passion.
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=flat-square)
-![License](https://img.shields.io/github/license/Saurabhjk15/wandersphere)
+
 ![Built With Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)
 
 ---
@@ -29,11 +29,7 @@ A **modern real estate platform** built from scratch using the **MERN stack** (M
 
 ---
 
-## 📸 Screenshots
 
-> You can add screenshots here using:  
-> `![Home Page](./screenshots/home.png)`  
-> `![Login Page](./screenshots/login.png)`
 
 ---
 
@@ -65,25 +61,28 @@ GOOGLE_CLIENT_ID=your_google_client_id
 ```
 
 ✅ Features
--Secure login and registration
+>Secure login and registration
 
--Protected routes
+>Protected routes
 
--Real-time listing search
+>Real-time listing search
 
--Google sign-in integration
+>Google sign-in integration
 
--Image previews before upload
+>Image previews before upload
 
--Fully responsive for mobile/tablets
+>Fully responsive for mobile/tablets
 
 ▶️ Run Locally
 **Backend**
-
+```bash
 cd server
 npm run dev
+```
 **Frontend**
+```bash
 cd client
-
+npm start
+```
 📃 License
 This project is licensed under the MIT License. See the LICENSE file for more info.
